@@ -1,10 +1,13 @@
-body{ font-size: 20px;}
+body{font-size: 16px;}
 
-.titulo{text-align: center;
-background-color: gray;}
- 
-.destaque {color: red;}
+.principal{background-color: gray;
+    text-align: center;}
 
-.subtitulo{text-align: center;}
-
- .beneficio{width: 100%;}
+    .negrito{color: #ff0000;}
+    .imagem{width: 100%;}
+        .BENEFÍCIOS{text-align: center;}
+        .imagem-beneficios {width: 50%;}
+        .titulo{padding: 20px;}
+        .lista{display: inline-block;
+        vertical-align: top;}
+        
